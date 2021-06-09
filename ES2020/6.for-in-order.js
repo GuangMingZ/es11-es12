@@ -1,3 +1,4 @@
+// for-in遍历顺序
 const obj = {
   x2: "x2",
   x1: "x1",
